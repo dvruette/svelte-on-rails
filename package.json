@@ -9,7 +9,7 @@
     "@rollup/plugin-babel": "^5.0.2",
     "hypernova": "^2.5.0",
     "hypernova-svelte": "^1.2.0",
-    "svelte": "^3.23.0",
+    "svelte": "^3.49.0",
     "svelte-loader": "^2.13.6",
     "turbolinks": "^5.2.0"
   },
